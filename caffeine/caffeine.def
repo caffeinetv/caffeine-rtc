@@ -1,0 +1,3 @@
+LIBRARY caffeine-rtc
+EXPORTS
+    TestStub

@@ -1,0 +1,7 @@
+import("../webrtc.gni")
+
+group("caffeine-rtc") {
+  deps = [
+    ":pc"
+  ]
+}

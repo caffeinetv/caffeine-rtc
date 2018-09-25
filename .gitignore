@@ -1,2 +1,3 @@
 src/
 .gclient_entries
+.ycm_extra_conf.py

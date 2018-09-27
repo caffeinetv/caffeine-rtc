@@ -23,10 +23,10 @@ try {
         exit 1
     }
 
-    Gen x86 debug
-    Gen x86 release
     Gen x64 debug
     Gen x64 release
+    Gen x86 debug
+    Gen x86 release
 } finally {
     Pop-Location
 }

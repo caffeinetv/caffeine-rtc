@@ -9,3 +9,7 @@ Google's depot tools: https://webrtc.org/native-code/development/prerequisite-sw
 ## Building
 
 TODO
+
+## Troubleshooting
+
+- Enable long filename support for windows

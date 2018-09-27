@@ -18,10 +18,10 @@ try {
         exit 1
     }
 
-    Build x86 debug
-    Build x86 release
     Build x64 debug
     Build x64 release
+    Build x86 debug
+    Build x86 release
 } finally {
     Pop-Location
 }

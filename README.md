@@ -51,4 +51,5 @@ directories for easier consumption.
 
 ## Troubleshooting
 
+- gclient sync failure on mac/linux? https://github.com/dart-lang/sdk/issues/32702
 - Enable long filename support for windows

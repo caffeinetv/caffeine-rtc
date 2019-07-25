@@ -1,3 +1,7 @@
+# OBSOLETE #
+
+caffeine-rtc was an experimental precursor to [libcaffeine](https://github.com/caffeinetv/libcaffeine). It was used in the [early releases of OBS Studio with Caffeine](https://github.com/caffeinetv/obs-studio/tree/old-cobs) and is no longer under active development.
+
 # caffeine-rtc
 
 A simplified wrapper for Caffeine's WebRTC implementation
